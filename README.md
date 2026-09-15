@@ -3,8 +3,8 @@
  So, my skills include:<br> 
  I have developed various of projects, from simple visit websites to complex web applications.<br> 
  I'm good in following languages and technologies
-  - PHP5-8 - OOP - MVC - Frameworks [Symfony 2.0-5.4 CodeIgniter, Kohana, Yii, Laravel 4.2-8.0, Cake],
-  - JavaScript - OOP - MV* - Frameworks [VueJS, jQuery, Backbone.js ,AngularJS, ReactJS]
+  - PHP5-8 - OOP - MVC - Frameworks [Symfony 2.0-5.4 CodeIgniter, Kohana, Yii, Laravel 4.2-12.0, Cake],
+  - JavaScript - OOP - MV* - Frameworks [VueJS, NextJS, jQuery, Backbone.js ,AngularJS, ReactJS]
   - NodeJS -[ExpressJS]
   - CSS3 - [ Twitter Bootstrap, jQueryUI, TailwindCSS ]
   - HTML5 GIT/SVN PSD to HTML conversion ( responsive ) PhoneGap ( Cordova ) , Wordpress
